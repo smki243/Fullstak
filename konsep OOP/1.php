@@ -14,3 +14,4 @@ class Product
 }
 
 $product1 = new Product('Smartpone', 5000000, 'smartpone terbaru dengan kamera berkualitas tinggi');
+$product2 = new product('ROG', 5000000, 'smartpone qualty good');
